@@ -2,7 +2,7 @@
 
 FOSS United Foundation and selected FOSS United Foundation project and activity logos
 
-* [FOSS United Foundation Logos](asset/foss-united-logo)
+* [FOSS United Foundation Logos](asset/FOSS-United-Logo)
 * [Foss Club](asset/foss-club)
 * [FOSS Hack logos](asset/FOSSHack)
 * [IndiaFOSS logos](asset/indiafoss)
